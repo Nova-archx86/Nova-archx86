@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @Nova-archx86
 - 👀 I’m interested in ...
   - Networking
-  - cyber security
+  - Cyber security
   - Systems Languages
 - 🌱 I’m currently learning ...
   - The rust programming language
   - Studying for my NET+
 - 💞️ I’m looking to collaborate on ...
   - Maybe one day ill make a contribution to torvalds/linux
-  - any project I find interesting
+  - Any project I find interesting
 - 📫 How to reach me ...
   - Email: moorcode66@yahoo.com
 
