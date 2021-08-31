@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
   - Networking
   - Cyber security
-  - Systems Languages
+  - Embeded systems/IoT
 - 🌱 I’m currently learning ...
   - The rust programming language
   - Studying for my NET+
