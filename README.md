@@ -7,7 +7,6 @@
   - The rust programming language
   - Studying for my NET+
 - 💞️ I’m looking to collaborate on ...
-  - Maybe one day ill make a contribution to torvalds/linux
   - Any project I find interesting
 - 📫 How to reach me ...
   - Email: moorcode66@yahoo.com
