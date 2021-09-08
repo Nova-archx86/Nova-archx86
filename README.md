@@ -5,9 +5,9 @@
   - Embeded systems/IoT
 - 🌱 I’m currently learning ...
   - The rust programming language
-  - Studying for my NET+
+  - Studying for my Security+
 - 💞️ I’m looking to collaborate on ...
-  - Any project I find interesting
+  - Any project that I find interesting
 - 📫 How to reach me ...
   - Email: moorcode66@yahoo.com
 
