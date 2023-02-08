@@ -4,8 +4,8 @@
   - Cyber security
   - Embeded systems/IoT
 - 🌱 I’m currently learning ...
-  - The rust programming language
-  - Studying for my Security+
+  - Golan
+  - Reverse engineering
 - 💞️ I’m looking to collaborate on ...
   - Any project that I find interesting
 - 📫 How to reach me ...
