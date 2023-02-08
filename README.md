@@ -4,7 +4,7 @@
   - Cyber security
   - Embeded systems/IoT
 - 🌱 I’m currently learning ...
-  - Golan
+  - Golang
   - Reverse engineering
 - 💞️ I’m looking to collaborate on ...
   - Any project that I find interesting
