@@ -4,7 +4,8 @@
   - Cyber security
   - Embeded systems/IoT
 - 🌱 I’m currently learning ...
-  - Golang
+  - LaTeX
+  - Zig
   - Reverse engineering
 - 💞️ I’m looking to collaborate on ...
   - Any project that I find interesting
