@@ -3,7 +3,7 @@ I'm a new systems developer interested in networking and security.
 
 ### Tech stack  
 
-| Languages  | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"> |  
+| Languages  | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Zig/zig1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"> |  
 | ---------- | ------------------------ |
 | Editors | <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Neovim/neovim1.svg"> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vim/vim1.svg"> |  
 
